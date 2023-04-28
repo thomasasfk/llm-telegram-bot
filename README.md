@@ -33,4 +33,4 @@ Todo:
 - Persist conversations if reply chain is relevant
 - Find good base models to use for conversation
 - Give a persona? or multiple personas
-=
+- Test coverage cause we love test coverage

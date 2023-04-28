@@ -7,8 +7,11 @@ Note: This is a WIP, currently works from [oobabooga webui](https://github.com/o
 Setup:
 
 - Install Python 3.10 (pyenv recommended)
-- Copy .env.example to .env
-- Add telegram token
+- Copy `.env.example` to `.env`
+```bash
+cp .env.example .env
+```
+- Add telegram token ([docs](https://core.telegram.org/bots/api))
 - Add comma separated list of chat ids `1,-2`
 - Setup venv & requirements
 ```bash

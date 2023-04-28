@@ -1,6 +1,8 @@
 ## inTheBagBot
 
-Note: This is a WIP, currently works from [oobabooga webui](https://github.com/oobabooga/text-generation-webui)'s API.  If you don't have that running with the API enabled, this won't work.
+Note: This is a WIP, currently works from [oobabooga webui](https://github.com/oobabooga/text-generation-webui)'s API.
+
+If you don't have that running with the API enabled, this won't work.
 
 ---
 
